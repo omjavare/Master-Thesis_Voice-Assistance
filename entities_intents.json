@@ -1,0 +1,172 @@
+[
+    {
+        "timestamp": "2025-06-24 10:55:36",
+        "transcription": "Thank you for this time.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2025-06-24 10:55:51",
+        "transcription": "Thank you for this time.  transcription results.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2025-06-24 10:56:05",
+        "transcription": "Thank you for this time.  transcription results.  5D 4130 error.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": "4130",
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:10:38",
+        "transcription": "For example, let's say you're saying, okay.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2025-06-24 11:10:39",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2025-06-24 11:10:46",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2025-06-24 11:10:49",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:10:51",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:10:56",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:03",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:05",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": null,
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:10",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.  I say machine error M489.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": "m489",
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:11",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.  I say machine error M489.  me.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": "m489",
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:18",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.  I say machine error M489.  me.  So I am for 8 9 and then it reports the intent. So like I said error, what is that?\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": "m489",
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:20",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.  I say machine error M489.  me.  So I am for 8 9 and then it reports the intent. So like I said error, what is that?  So, in time report.\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": "m489",
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:27",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.  I say machine error M489.  me.  So I am for 8 9 and then it reports the intent. So like I said error, what is that?  So, in time report.  So, no, this is how the...\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": "m489",
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    },
+    {
+        "timestamp": "2025-06-24 11:11:29",
+        "transcription": "For example, let's say you're saying, okay.  No, no, no.  So we have we get the transcriptions here and let's  I say machine error.  M 3.40.  So yeah, so big art.  So the machine error thing it will show you so  I don't know what's happening right now but then.  I say machine error M489.  me.  So I am for 8 9 and then it reports the intent. So like I said error, what is that?  So, in time report.  So, no, this is how the...  the\nEntities: {}, Intent: unknown",
+        "entities": {
+            "machine_id": "m489",
+            "order_number": null,
+            "employee_id": null
+        },
+        "intent": "report"
+    }
+]
