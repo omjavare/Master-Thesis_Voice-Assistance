@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "input_text": "der druckabfall in der hydraulik von maschine 721-455 an linie 6 wurde am 19. september 2024 als kritisches problem gemeldet",
+      "target_text": "Der Druckabfall in der Hydraulik von Maschine 721-405 an Linie 6 wurde am 19.09.2024 als kritisches Problem gemeldet."
+    },
+    {
+      "input_text": "am 23. märz 2024 wurde festgestellt, dass die klingen an maschine 412, -533 auf linie 5 stumpf waren und ausgewächselt werden mussten",
+      "target_text": "Am 23.03.2024 wurde festgestellt, dass die Klingen an Maschine 412-503 auf Linie 5 stumpf waren und ausgewechselt werden mussten."
+    },
+    {
+      "input_text": "der stromausfall am 10. oktober 2025 verursachte einen datenverlust bei maschine 55-222 auf linie 10",
+      "target_text": "Der Stromausfall am 10.10.2025 verursachte einen Datenverlust bei Maschine 55-222 auf Linie 10."
+    },
+    {
+      "input_text": "die motorüberhitzung bei maschine 123-789 am 15. april 2024 führte zu einem produktionsstopp auf linie 3",
+      "target_text": "Die Motorüberhitzung bei Maschine 123-789 am 15.04.2024 führte zu einem Produktionsstopp auf Linie 3."
+    },
+    {
+      "input_text": "am 05. juni 2025 wurde ein leck in der rohrleitung von maschine 456-123 an linie 8 entdeckt",
+      "target_text": "Am 05.06.2025 wurde ein Leck in der Rohrleitung von Maschine 456-123 an Linie 8 entdeckt."
+    },
+    {
+      "input_text": "der sensorfehler an maschine 789-234 am 20. juli 2024 verursachte eine fehlerhafte messung auf linie 2",
+      "target_text": "Der Sensorfehler an Maschine 789-234 am 20.07.2024 verursachte eine fehlerhafte Messung auf Linie 2."
+    },
+    {
+      "input_text": "am 12. august 2024 wurde die wartung an maschine 345-678 auf linie 7 abgeschlossen",
+      "target_text": "Am 12.08.2024 wurde die Wartung an Maschine 345-678 auf Linie 7 abgeschlossen."
+    },
+    {
+      "input_text": "die temperaturanomalie bei maschine 567-890 am 03. september 2025 führte zu einem alarm auf linie 4",
+      "target_text": "Die Temperaturanomalie bei Maschine 567-890 am 03.09.2025 führte zu einem Alarm auf Linie 4."
+    },
+    {
+      "input_text": "am 25. oktober 2024 wurde ein defekt an maschine 234-567 auf linie 9 repariert",
+      "target_text": "Am 25.10.2024 wurde ein Defekt an Maschine 234-567 auf Linie 9 repariert."
+    },
+    {
+      "input_text": "der ölverlust bei maschine 678-901 am 18. november 2024 führte zu einer inspektion auf linie 1",
+      "target_text": "Der Ölverlust bei Maschine 678-901 am 18.11.2024 führte zu einer Inspektion auf Linie 1."
+    },
+    {
+      "input_text": "am 07. dezember 2025 wurde ein blockieren der ventil an maschine 901-234 auf linie 5 festgestellt",
+      "target_text": "Am 07.12.2025 wurde ein Blockieren des Ventils an Maschine 901-234 auf Linie 5 festgestellt."
+    },
+    {
+      "input_text": "die vibrationsprobleme bei maschine 123-456 am 14. januar 2025 verursachten einen halt auf linie 6",
+      "target_text": "Die Vibrationsprobleme bei Maschine 123-456 am 14.01.2025 verursachten einen Halt auf Linie 6."
+    },
+    {
+      "input_text": "am 22. februar 2024 wurde ein überspannung an maschine 345-789 auf linie 8 behoben",
+      "target_text": "Am 22.02.2024 wurde eine Überspannung an Maschine 345-789 auf Linie 8 behoben."
+    },
+    {
+      "input_text": "der geräuschpegel an maschine 567-123 am 09. märz 2025 war über dem limit auf linie 3",
+      "target_text": "Der Geräuschpegel an Maschine 567-123 am 09.03.2025 war über dem Limit auf Linie 3."
+    },
+    {
+      "input_text": "am 30. april 2024 wurde ein kurzschluss an maschine 789-456 auf linie 7 repariert",
+      "target_text": "Am 30.04.2024 wurde ein Kurzschluss an Maschine 789-456 auf Linie 7 repariert."
+    },
+    {
+      "input_text": "die fehlerhafte kalibrierung bei maschine 234-890 am 16. mai 2025 führte zu abweichungen auf linie 2",
+      "target_text": "Die fehlerhafte Kalibrierung bei Maschine 234-890 am 16.05.2025 führte zu Abweichungen auf Linie 2."
+    },
+    {
+      "input_text": "am 28. juni 2024 wurde ein lagerdefekt an maschine 456-789 auf linie 9 entdeckt",
+      "target_text": "Am 28.06.2024 wurde ein Lagerdefekt an Maschine 456-789 auf Linie 9 entdeckt."
+    },
+    {
+      "input_text": "der überdruck in der pumpe von maschine 678-123 am 11. juli 2025 verursachte einen stillstand auf linie 4",
+      "target_text": "Der Überdruck in der Pumpe von Maschine 678-123 am 11.07.2025 verursachte einen Stillstand auf Linie 4."
+    },
+    {
+      "input_text": "am 04. august 2024 wurde ein leck an maschine 901-567 auf linie 1 behoben",
+      "target_text": "Am 04.08.2024 wurde ein Leck an Maschine 901-567 auf Linie 1 behoben."
+    },
+    {
+      "input_text": "die stromschwankungen bei maschine 123-234 am 21. september 2025 führten zu fehlern auf linie 5",
+      "target_text": "Die Stromschwankungen bei Maschine 123-234 am 21.09.2025 führten zu Fehlern auf Linie 5."
+    },
+    {
+      "input_text": "am 13. oktober 2024 wurde ein riemenbruch an maschine 345-901 auf linie 7 festgestellt",
+      "target_text": "Am 13.10.2024 wurde ein Riemenbruch an Maschine 345-901 auf Linie 7 festgestellt."
+    },
+    {
+      "input_text": "der fehlercode 404 an maschine 567-345 am 27. november 2025 wurde auf linie 3 gelöscht",
+      "target_text": "Der Fehlercode 404 an Maschine 567-345 am 27.11.2025 wurde auf Linie 3 gelöscht."
+    },
+    {
+      "input_text": "am 06. dezember 2024 wurde ein überlastung an maschine 789-678 auf linie 8 behoben",
+      "target_text": "Am 06.12.2024 wurde eine Überlastung an Maschine 789-678 auf Linie 8 behoben."
+    },
+    {
+      "input_text": "die beschädigung an maschine 234-123 am 19. januar 2025 führte zu einer inspektion auf linie 2",
+      "target_text": "Die Beschädigung an Maschine 234-123 am 19.01.2025 führte zu einer Inspektion auf Linie 2."
+    },
+    {
+      "input_text": "am 15. februar 2024 wurde ein sensorproblem an maschine 456-890 auf linie 6 gelöst",
+      "target_text": "Am 15.02.2024 wurde ein Sensorproblem an Maschine 456-890 auf Linie 6 gelöst."
+    },
+    {
+      "input_text": "der ausfall der kühlung bei maschine 678-234 am 10. märz 2025 verursachte hitze auf linie 1",
+      "target_text": "Der Ausfall der Kühlung bei Maschine 678-234 am 10.03.2025 verursachte Hitze auf Linie 1."
+    },
+    {
+      "input_text": "am 24. april 2024 wurde ein ventilproblem an maschine 901-789 auf linie 5 behoben",
+      "target_text": "Am 24.04.2024 wurde ein Ventilproblem an Maschine 901-789 auf Linie 5 behoben."
+    },
+    {
+      "input_text": "die lautstärke an maschine 123-567 am 02. mai 2025 war ungewöhnlich auf linie 3",
+      "target_text": "Die Lautstärke an Maschine 123-567 am 02.05.2025 war ungewöhnlich auf Linie 3."
+    },
+    {
+      "input_text": "am 18. juni 2024 wurde ein kabelbruch an maschine 345-234 auf linie 7 repariert",
+      "target_text": "Am 18.06.2024 wurde ein Kabelbruch an Maschine 345-234 auf Linie 7 repariert."
+    },
+    {
+      "input_text": "der fehler an maschine 567-890 am 25. juli 2025 führte zu einem stopp auf linie 9",
+      "target_text": "Der Fehler an Maschine 567-890 am 25.07.2025 führte zu einem Stopp auf Linie 9."
+    },
+    {
+      "input_text": "am 09. august 2024 wurde ein motorstopp an maschine 789-123 auf linie 2 festgestellt",
+      "target_text": "Am 09.08.2024 wurde ein Motorstopp an Maschine 789-123 auf Linie 2 festgestellt."
+    },
+    {
+      "input_text": "die überhitzung bei maschine 234-456 am 14. september 2025 verursachte einen ausfall auf linie 6",
+      "target_text": "Die Überhitzung bei Maschine 234-456 am 14.09.2025 verursachte einen Ausfall auf Linie 6."
+    },
+    {
+      "input_text": "am 30. oktober 2024 wurde ein lecks an maschine 456-789 auf linie 1 behoben",
+      "target_text": "Am 30.10.2024 wurde ein Leck an Maschine 456-789 auf Linie 1 behoben."
+    },
+    {
+      "input_text": "der datenverlust bei maschine 678-901 am 07. november 2025 wurde auf linie 4 gemeldet",
+      "target_text": "Der Datenverlust bei Maschine 678-901 am 07.11.2025 wurde auf Linie 4 gemeldet."
+    },
+    {
+      "input_text": "am 23. dezember 2024 wurde ein blockieren an maschine 901-234 auf linie 8 gelöst",
+      "target_text": "Am 23.12.2024 wurde ein Blockieren an Maschine 901-234 auf Linie 8 gelöst."
+    },
+    {
+      "input_text": "die vibrationsstörung bei maschine 123-678 am 16. januar 2025 führte zu einer pause auf linie 3",
+      "target_text": "Die Vibrationsstörung bei Maschine 123-678 am 16.01.2025 führte zu einer Pause auf Linie 3."
+    },
+    {
+      "input_text": "am 05. februar 2024 wurde ein überspannung an maschine 345-901 auf linie 7 behoben",
+      "target_text": "Am 05.02.2024 wurde eine Überspannung an Maschine 345-901 auf Linie 7 behoben."
+    },
+    {
+      "input_text": "der geräuschpegel an maschine 567-345 am 12. märz 2025 war hoch auf linie 2",
+      "target_text": "Der Geräuschpegel an Maschine 567-345 am 12.03.2025 war hoch auf Linie 2."
+    },
+    {
+      "input_text": "am 28. april 2024 wurde ein kurzschluss an maschine 789-678 auf linie 6 repariert",
+      "target_text": "Am 28.04.2024 wurde ein Kurzschluss an Maschine 789-678 auf Linie 6 repariert."
+    },
+    {
+      "input_text": "die fehlerhafte einheit bei maschine 234-123 am 19. mai 2025 verursachte probleme auf linie 1",
+      "target_text": "Die fehlerhafte Einheit bei Maschine 234-123 am 19.05.2025 verursachte Probleme auf Linie 1."
+    },
+    {
+      "input_text": "am 11. juni 2024 wurde ein lagerproblem an maschine 456-890 auf linie 5 gelöst",
+      "target_text": "Am 11.06.2024 wurde ein Lagerproblem an Maschine 456-890 auf Linie 5 gelöst."
+    },
+    {
+      "input_text": "der überdruck in der ventil von maschine 678-234 am 26. juli 2025 führte zu einem stopp auf linie 9",
+      "target_text": "Der Überdruck in der Ventil von Maschine 678-234 am 26.07.2025 führte zu einem Stopp auf Linie 9."
+    },
+    {
+      "input_text": "am 03. august 2024 wurde ein leck an maschine 901-567 auf linie 3 behoben",
+      "target_text": "Am 03.08.2024 wurde ein Leck an Maschine 901-567 auf Linie 3 behoben."
+    },
+    {
+      "input_text": "die stromschwankungen bei maschine 123-234 am 17. september 2025 führten zu fehlern auf linie 7",
+      "target_text": "Die Stromschwankungen bei Maschine 123-234 am 17.09.2025 führten zu Fehlern auf Linie 7."
+    },
+    {
+      "input_text": "am 29. oktober 2024 wurde ein riemenbruch an maschine 345-901 auf linie 2 festgestellt",
+      "target_text": "Am 29.10.2024 wurde ein Riemenbruch an Maschine 345-901 auf Linie 2 festgestellt."
+    },
+    {
+      "input_text": "der fehlercode 505 an maschine 567-345 am 08. november 2025 wurde auf linie 6 gelöscht",
+      "target_text": "Der Fehlercode 505 an Maschine 567-345 am 08.11.2025 wurde auf Linie 6 gelöscht."
+    },
+    {
+      "input_text": "am 20. dezember 2024 wurde ein überlastung an maschine 789-678 auf linie 1 behoben",
+      "target_text": "Am 20.12.2024 wurde eine Überlastung an Maschine 789-678 auf Linie 1 behoben."
+    },
+    {
+      "input_text": "die beschädigung an maschine 234-123 am 04. januar 2025 führte zu einer inspektion auf linie 5",
+      "target_text": "Die Beschädigung an Maschine 234-123 am 04.01.2025 führte zu einer Inspektion auf Linie 5."
+    },
+    {
+      "input_text": "am 15. februar 2024 wurde ein sensorproblem an maschine 456-890 auf linie 9 gelöst",
+      "target_text": "Am 15.02.2024 wurde ein Sensorproblem an Maschine 456-890 auf Linie 9 gelöst."
+    },
+    {
+      "input_text": "der ausfall der kühlung bei maschine 678-234 am 22. märz 2025 verursachte hitze auf linie 3",
+      "target_text": "Der Ausfall der Kühlung bei Maschine 678-234 am 22.03.2025 verursachte Hitze auf Linie 3."
+    },
+    {
+      "input_text": "am 10. april 2024 wurde ein ventilproblem an maschine 901-789 auf linie 7 behoben",
+      "target_text": "Am 10.04.2024 wurde ein Ventilproblem an Maschine 901-789 auf Linie 7 behoben."
+    }
+]
+}
